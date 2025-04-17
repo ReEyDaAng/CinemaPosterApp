@@ -1,0 +1,22 @@
+[
+  {
+    "id": 1,
+    "title": "Дюна 2",
+    "poster": "https://image.tmdb.org/t/p/w500/example.jpg",
+    "rating": 8.7,
+    "genre": "Фантастика",
+    "year": 2024,
+    "description": "Сиквел епічної sci-fi пригоди.",
+    "trailer": "https://www.youtube.com/embed/n9xhJrPXop4"
+  },
+  {
+    "id": 2,
+    "title": "Оппенгеймер",
+    "poster": "https://image.tmdb.org/t/p/w500/example2.jpg",
+    "rating": 8.9,
+    "genre": "Біографія",
+    "year": 2023,
+    "description": "Історія створення атомної бомби.",
+    "trailer": "https://www.youtube.com/embed/uYPbbksJxIg"
+  }
+]
